@@ -4,10 +4,16 @@
   vue created demo
 
 - 安装组件库
-  npm add roy-ui
+  npm i roy-ui
 
 - 全局导入
   import RoyUI form 'one-ui'
   import 'roy-ui/lib/roy.css'
 
   Vue.use(RoyUI)
+
+- 登录npm
+![npm login](examples/assets/npm-log.png)
+- 发布到npm
+![npm publish](examples/assets/npm-pub.png)
+
