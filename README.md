@@ -7,7 +7,7 @@
   npm i roy-ui
 
 - 全局导入
-  import RoyUI form 'one-ui'
+  import RoyUI form 'roy-ui'
   import 'roy-ui/lib/roy.css'
 
   Vue.use(RoyUI)
