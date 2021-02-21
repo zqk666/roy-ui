@@ -1,26 +1,13 @@
-# roy-ui
+- 本项目仅作为vue组件封装的练习参考
 
-## Project setup
-```
-npm install
-```
+- 初始化vue项目
+  vue created demo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- 安装组件库
+  npm add roy-ui
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- 全局导入
+  import RoyUI form 'one-ui'
+  import 'roy-ui/lib/roy.css'
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+  Vue.use(RoyUI)
